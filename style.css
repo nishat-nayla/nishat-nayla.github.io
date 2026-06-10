@@ -75,3 +75,16 @@ a:hover {
 .publication p {
     margin: 5px 0;
 }
+.section {
+    margin-bottom: 50px;
+}
+
+.section h3 {
+    color: #0f172a;
+    margin-top: 25px;
+    margin-bottom: 8px;
+}
+
+.section p {
+    line-height: 1.8;
+}
