@@ -27,3 +27,12 @@ hr {
 ul {
     padding-left: 20px;
 }
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+h1, p {
+    text-align: center;
+}
