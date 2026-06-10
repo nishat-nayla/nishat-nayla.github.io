@@ -63,3 +63,15 @@ a:hover {
     text-decoration: underline;
 }
 }
+.publication {
+    margin-bottom: 25px;
+}
+
+.publication h3 {
+    margin-bottom: 5px;
+    color: #0f172a;
+}
+
+.publication p {
+    margin: 5px 0;
+}
